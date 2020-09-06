@@ -5,11 +5,12 @@ I'm an undergraduate student in Computer Science at UFCG, a University located i
 
 <details>
 <summary>facts about me</summary>  
-- I like watching anime. The very first I watched was Naruto.  
-- I like watching series as well.  
-- I like watching amv on youtube.
+- I like watching anime. The very first I watched was Naruto.<br>
+- I like watching series as well.<br>  
+- I like watching amv on youtube.<br>  
 </details>
 
+___
 
 - 🌱 I’m currently learning ...
 - 🤔 I like learning new stuff and I'm determined.
