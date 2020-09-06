@@ -1,9 +1,13 @@
-### Hi there 👋
+# Eduardo's profile  
+
+I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
 <details>
-<summary>Personal details.</summary>
-Hey, I'm Eduardo, undergraduate in Computer Science at UFCG, a University located in Paraiba - Brazil. I like watching animes, some series and movies as well.
+<summary>facts about me</summary>  
+- I like watching anime. The very first I watched was Naruto.  
+- I like watching series as well.  
+- I like watching amv on youtube.
 </details>
 
 
@@ -12,4 +16,4 @@ Hey, I'm Eduardo, undergraduate in Computer Science at UFCG, a University locate
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
 
-![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true)
