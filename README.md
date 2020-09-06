@@ -14,7 +14,7 @@ ___
 
 
 - 🌱 I’m currently learning
-<code><img height="20" src= "https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.14.0/java.svg" alt="java"/></code>
+<code><img height="20" src= "https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.14.0/java.png" alt="java"/></code>
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
