@@ -12,9 +12,7 @@ I'm an undergraduate student in Computer Science at UFCG, a University located i
 
 ___
 
-
-- 🌱 I’m currently learning
-<code><img src= "https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.14.0/java.svg"/></code>
+- Technologies I'm into: Java, Spring boot, javascript, nodejs.
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
