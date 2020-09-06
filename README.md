@@ -12,7 +12,8 @@ I'm an undergraduate student in Computer Science at UFCG, a University located i
 
 ___
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
+<code><img src= "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java"/></code>
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
