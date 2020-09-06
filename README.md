@@ -3,7 +3,7 @@
 
 <details>
 <summary>Personal details.</summary>
-Hey, I'm Eduardo, undergraduate in Computer Science at UFCG, a University located in Paraiba - Brazil. I like watching animes, some series and movies well.
+Hey, I'm Eduardo, undergraduate in Computer Science at UFCG, a University located in Paraiba - Brazil. I like watching animes, some series and movies as well.
 </details>
 
 
