@@ -1,6 +1,6 @@
 
 
-<img src=my-github-profile.png alt="profile" />  
+![welcome](/images/my-github-profile.png)  
 
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
