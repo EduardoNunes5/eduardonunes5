@@ -17,7 +17,7 @@ ___
 <code><img height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring framework" /></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" /></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" /></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png" "intellij" /></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij" /></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" /></code>  
 
 - 🤔 I like learning new stuff and I'm determined.
