@@ -12,7 +12,7 @@ I'm an undergraduate student in Computer Science at UFCG, a University located i
 
 ___
 
-- Technologies I'm into: 
+- Technologies I'm into:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" />
 <img height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring framework" />
 <img height="30" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" />
