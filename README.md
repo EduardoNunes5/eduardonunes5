@@ -2,13 +2,13 @@
 
 ![](https://user-images.githubusercontent.com/50140955/92417077-d3abc880-f136-11ea-99dc-662032755a4e.png)  
 
-<a href="#">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/eduardo-afonso-nunes-da-silva-a123341a0/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:eduardo.afonso.silva@ccc.ufcg.edu.br">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="#">
+<a href="https://www.instagram.com/eduardonunes05/">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>  
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
@@ -31,7 +31,7 @@ ___
 <code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" /></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij" /></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" /></code>  
-
+<br><br><br>
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
