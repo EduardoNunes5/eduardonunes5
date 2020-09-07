@@ -9,8 +9,8 @@
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 <a href="#">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
-</a>
+  <img src="https://img.icons8.com/cute-clipart/256/000000/instagram-new.png"/>
+</a>  
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
