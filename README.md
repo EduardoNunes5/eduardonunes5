@@ -1,6 +1,6 @@
 
 
-![profile](/profile.png?raw=true)
+![profile](/profile.png?raw=true)  
 I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
