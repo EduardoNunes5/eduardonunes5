@@ -1,4 +1,6 @@
 
+
+![profile](/profile.png)
 I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
