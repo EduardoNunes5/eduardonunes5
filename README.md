@@ -1,6 +1,7 @@
 
 
-<img width="400" src="my-github-profile.png" alt="profile" />
+<img width="400" src="my-github-profile.png" alt="profile" />  
+
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
