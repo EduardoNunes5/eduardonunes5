@@ -25,4 +25,4 @@ ___
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=0e6b0e&icon_color=009900&bg_color=9ccc9c)
+![github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=001900&icon_color=009900&bg_color=9ccc9c&title_color=0e6b0e)
