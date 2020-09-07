@@ -2,8 +2,15 @@
 
 ![](https://user-images.githubusercontent.com/50140955/92417077-d3abc880-f136-11ea-99dc-662032755a4e.png)  
 
-<a href="#"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
-<a href="mailto:eduardo.afonso.silva@ccc.ufcg.edu.br"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="#">
+  <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+</a>
+<a href="mailto:eduardo.afonso.silva@ccc.ufcg.edu.br">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+<a href="#">
+  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+</a>
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
 
