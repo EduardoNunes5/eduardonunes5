@@ -1,5 +1,3 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUoSq8iuQE7QHdwlSb4gtAI%2FUntitled%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
-
 
 I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
