@@ -1,6 +1,6 @@
 
 
-![](/images/my-github-profile.png?raw=true)  
+![](https://user-images.githubusercontent.com/50140955/92417077-d3abc880-f136-11ea-99dc-662032755a4e.png)  
 
 ## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
 
