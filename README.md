@@ -17,7 +17,7 @@
 
 <details>
 <summary>facts about me</summary>  
-- I like watching anime. The very first I watched was Naruto.<br>
+- I like watching animes. The very first I watched was Naruto at about 8 / 9 years old.<br>
 - I like watching series as well.<br>  
 - I like watching amv on youtube.<br>  
 </details>
