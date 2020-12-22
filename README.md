@@ -38,5 +38,3 @@ ___
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=001900&icon_color=009900&bg_color=9ccc9c&title_color=0e6b0e"></img>
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonunes5&hide_border=true&layout=compact&text_color=001900&icon_color=009900&bg_color=9ccc9c&title_color=0e6b0e"></img>  
-                       
-(https://github.com/anuraghazra/github-readme-stats)
