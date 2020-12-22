@@ -36,4 +36,5 @@ ___
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=001900&icon_color=009900&bg_color=9ccc9c&title_color=0e6b0e)
+![github stats](https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=001900&icon_color=009900&bg_color=9ccc9c&title_color=0e6b0e)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonunes5)](https://github.com/anuraghazra/github-readme-stats)
