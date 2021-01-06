@@ -1,7 +1,5 @@
 
 
-![](https://user-images.githubusercontent.com/50140955/92417077-d3abc880-f136-11ea-99dc-662032755a4e.png)  
-
 <a href="https://www.linkedin.com/in/eduardo-afonso-nunes-da-silva-a123341a0/">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
@@ -36,5 +34,5 @@ ___
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
 
-<img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=bbffff&icon_color=009900&bg_color=333333&title_color=00eeee"></img>
-<img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonunes5&hide_border=true&layout=compact&text_color=bbffff&icon_color=009900&bg_color=333333&title_color=00eeee"></img>  
+<img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
+<img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonunes5&hide_border=true&layout=compact&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>  
