@@ -17,14 +17,13 @@
 ___
 
 - Technologies I'm into:
-<code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" /></code>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<code><img height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring framework" /></code>
-<code><img height="30" src="https://inceptum-stor.icons8.com/t3d8eFoC9Rc4/Maven.svg" alt="maven" /></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" /></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" /></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij" /></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" /></code>  
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cypress](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
