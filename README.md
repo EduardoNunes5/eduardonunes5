@@ -19,7 +19,7 @@ ___
 - Technologies I'm into:  
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ED8B00)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&logoColor=04C38E)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
