@@ -16,7 +16,7 @@
 
 ___
 
-- Technologies I'm into:  
+Technologies I'm into:  
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ED8B00)
