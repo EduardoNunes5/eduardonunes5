@@ -22,7 +22,7 @@ ___
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=flat-square&logo=cypress&logoColor=black)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&textColor=white&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 - 🤔 I like learning new stuff and I'm determined.
