@@ -18,12 +18,12 @@ ___
 
 Technologies I'm into:  
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ED8B00)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&logoColor=04C38E)
-![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=04C38E)
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
