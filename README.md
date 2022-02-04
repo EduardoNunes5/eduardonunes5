@@ -24,6 +24,7 @@ Technologies I'm into:
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=04C38E)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+![JUnit5](https://img.shields.io/badge/Junit-43853D?style=for-the-badge&logo=Junit5&logoColor=green)
 
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
