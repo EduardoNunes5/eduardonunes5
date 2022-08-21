@@ -23,6 +23,7 @@ Technologies I'm into:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=04C38E)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/Junit-43853D?style=for-the-badge&logo=Junit5&logoColor=green)
 
