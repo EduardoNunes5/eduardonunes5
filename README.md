@@ -10,7 +10,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>  
 
-## I'm an undergraduate student in Computer Science at UFCG, a University located in Paraiba - Brazil.
+## I'm a computer scientist, a web development enthusiast and mostly interested in backend development but I think I can get by in frontend development too :)
 
 
 
