@@ -10,7 +10,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>  
 
-## I'm a computer scientist, a web development enthusiast and mostly interested in backend development but I think I can get by in frontend development too :)
+## I'm a computer scientist, a web development enthusiast and mostly interested in backend development but I enjoy frontend too :)
 
 
 
