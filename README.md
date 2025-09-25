@@ -33,7 +33,7 @@ Technologies I'm into:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 - 🤔 I like learning new stuff and I'm determined.
-- 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
+- 📫 How to reach me: afonso_nunes6@hotmail.com
 
 
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=eduardonunes5&show_icons=true&hide_border=true&text_color=bbffff&icon_color=ffffff&bg_color=333333&title_color=ffffff"></img>
