@@ -10,7 +10,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>  
 
-## I'm a computer scientist, a web development enthusiast and mostly interested in backend development but I enjoy frontend too :)
+## I'm a computer scientist, a web development enthusiast and mostly interested in backend development but I enjoy frontend too. Currently studying game development :)
 
 
 
@@ -30,7 +30,8 @@ Technologies I'm into:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/Junit-43853D?style=for-the-badge&logo=Junit5&logoColor=green)
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 - 🤔 I like learning new stuff and I'm determined.
 - 📫 How to reach me: eduardo.afonso.silva@ccc.ufcg.edu.br
 
